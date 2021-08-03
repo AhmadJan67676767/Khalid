@@ -98,12 +98,7 @@ def logo():
 		os.system("echo 'Mozilla/5.0 (Linux; Android 5.1; OPPO A37f Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36' >> .ua")
 	os.system("clear")
 	print("""            
-  ___________          _____ _____________________
-  \_   _____/         /     \\______   \_   _____/
-   |    __)  ______  /  \ /  \|    |  _/|    __)  
-   |     \  /_____/ /    Y    \    |   \|     \   
-   \___  /          \____|__  /______  /\___  /   
-       \/                   \/       \/     \/ """)
+Rps
 def bot_komen():
     try:
         token = open('login.txt', 'r').read()
